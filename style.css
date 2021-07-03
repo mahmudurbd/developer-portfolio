@@ -10,12 +10,12 @@ h1 .name-highlight {
 }
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    /* background-size: cover;
-    background-position: top left; */
+    padding: 0 5%;
 }
 .half-width {
     width: 50%;
@@ -28,7 +28,20 @@ section {
     font-weight: 700;
     text-decoration: none;
     border-radius: 5px;
+    text-transform: uppercase;
+}
+.link-button:hover {
+    background-image:linear-gradient(#FF9672,#FF6F51 );
 }
 .half-width img {
     width: 80%;
+}
+
+/* Dream Big section  */
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0 5%;
+    /* margin-top: 10%; */
 }
