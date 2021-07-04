@@ -3,10 +3,10 @@ body {
     margin: 0;
 }
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 h2 {
-    font-size: 40px;
+    font-size: 35px;
 }
 h1 .name-highlight {
     color: orange;
