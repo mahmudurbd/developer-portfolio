@@ -69,11 +69,13 @@ h1 .name-highlight {
     border-left: 7px solid;
     border-image: linear-gradient(purple, tomato);
     border-image-slice: 1;
+    padding: 0 1%;
 }
 #web-dev-expericence {
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+    padding: 0 1%;
 }
 footer p {
     text-align: center;
